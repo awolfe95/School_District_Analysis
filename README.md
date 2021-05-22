@@ -14,7 +14,7 @@
 
 -How does replacing the ninth-grade scores affect the following:
 
-	-Math and reading scores by grade: The math and reading scores for 9th grade at THS are null due to data integrity issues.( https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_math_reading_scores_bygrade.png) 
+** Math and reading scores by grade: The math and reading scores for 9th grade at THS are null due to data integrity issues.( https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_math_reading_scores_bygrade.png) 
  
 	-Scores by school spending: The spending range affected is the $630-$644 range and it is only slight affected. The average math score, percent passing math, percent passing reading, and overall percent passing values are all slightly lower in the updated version. The average reading score is slightly higher in the updated version. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_school_spending.png)
 
@@ -27,4 +27,3 @@
 ## Summary
 
 ### Overall, the updated THS 9th grade reading and math scores had minimal effect on the analysis, with all the findings relating to school size, spending, and type staying the same. Four of the main changes include: (1) THS 9th grade scores were replaced with “NaN”, (2) THS’ school summary data slightly changed due to the update, (3) average reading scores for the school district metrics slightly increased in the categories that included THS, (4) the average math scores as well as passing percentages for the school district metrics slightly decreased in the categories that included THS.
-![image](https://user-images.githubusercontent.com/82780266/119227622-cc69f680-badc-11eb-81ac-5d770451012f.png)
