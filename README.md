@@ -23,7 +23,6 @@
 (4) Scores by school type: The charter school type category was slightly affected by the update. The average math score, percent passing math, percent passing reading, and overall percent passing values are all slightly lower in the updated version. The average reading score is slightly higher in the updated version. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_school_type.png)
 
 
-
 ## Summary
 
 ### Overall, the updated THS 9th grade reading and math scores had minimal effect on the analysis, with all the findings relating to school size, spending, and type staying the same. Four of the main changes include: (1) THS 9th grade scores were replaced with “NaN”, (2) THS’ school summary data slightly changed due to the update, (3) average reading scores for the school district metrics slightly increased in the categories that included THS, (4) the average math scores as well as passing percentages for the school district metrics slightly decreased in the categories that included THS.
