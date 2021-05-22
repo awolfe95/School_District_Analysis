@@ -6,21 +6,21 @@
 
 ## Results
 
--How is the district summary affected? The average scores as well as percentages barely changed between the original district summary and the updated summary excluding the THS 9th grade values. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_school_district_summary.png) 
+* How is the district summary affected? The average scores as well as percentages barely changed between the original district summary and the updated summary excluding the THS 9th grade values. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_school_district_summary.png) 
  
--How is the school summary affected? The school summary has updated values for average reading and math scores as well as percent passing for THS based on the removal of THS 9th grade score removal. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_per_school_summary.png) 
+* How is the school summary affected? The school summary has updated values for average reading and math scores as well as percent passing for THS based on the removal of THS 9th grade score removal. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_per_school_summary.png) 
 
--How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? THS is the second best performing school based on overall passing percentage in both the original analysis as well as the analysis with updated THS values. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_THS_relative_performance.png) 
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? THS is the second best performing school based on overall passing percentage in both the original analysis as well as the analysis with updated THS values. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_THS_relative_performance.png) 
 
--How does replacing the ninth-grade scores affect the following:
+* How does replacing the ninth-grade scores affect the following:
 
-(1) Math and reading scores by grade: The math and reading scores for 9th grade at THS are null due to data integrity issues.( https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_math_reading_scores_bygrade.png) 
+  ** Math and reading scores by grade: The math and reading scores for 9th grade at THS are null due to data integrity issues.( https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_math_reading_scores_bygrade.png) 
  
-(2) Scores by school spending: The spending range affected is the $630-$644 range and it is only slight affected. The average math score, percent passing math, percent passing reading, and overall percent passing values are all slightly lower in the updated version. The average reading score is slightly higher in the updated version. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_school_spending.png)
+  ** Scores by school spending: The spending range affected is the $630-$644 range and it is only slight affected. The average math score, percent passing math, percent passing reading, and overall percent passing values are all slightly lower in the updated version. The average reading score is slightly higher in the updated version. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_school_spending.png)
 
-(3)Scores by school size: The medium school size category was slightly affected by the update. The average math score, percent passing math, percent passing reading, and overall percent passing values are all slightly lower in the updated version. The average reading score is slightly higher in the updated version. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_school_size.png) 
+  ** Scores by school size: The medium school size category was slightly affected by the update. The average math score, percent passing math, percent passing reading, and overall percent passing values are all slightly lower in the updated version. The average reading score is slightly higher in the updated version. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_school_size.png) 
 
-(4) Scores by school type: The charter school type category was slightly affected by the update. The average math score, percent passing math, percent passing reading, and overall percent passing values are all slightly lower in the updated version. The average reading score is slightly higher in the updated version. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_school_type.png)
+  ** Scores by school type: The charter school type category was slightly affected by the update. The average math score, percent passing math, percent passing reading, and overall percent passing values are all slightly lower in the updated version. The average reading score is slightly higher in the updated version. (https://github.com/awolfe95/School_District_Analysis/blob/main/Resources/updated_school_type.png)
 
 
 ## Summary
